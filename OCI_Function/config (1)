@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaatxakdqrrknau3bivdaiwyqayrjdye7urktw5viql2qtmkls5vmea
+fingerprint=0e:65:bf:cd:58:87:ee:16:7c:46:f5:7a:1d:c0:06:30
+tenancy=ocid1.tenancy.oc1..aaaaaaaah2c25pobzyzvkcznnozputxfxtz3qvewrqaga7z66tdjrgvigbiq
+region=us-ashburn-1
+key_file=/function/visionservice.pem
