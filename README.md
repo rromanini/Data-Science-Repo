@@ -1,3 +1,3 @@
 # Data Science Repo
 
-Dados sintéticos, números randômicos e a biblioteca ADS da Oracle
+Assuntos diversos que abordam desde dados sintéticos, números randomicos até LLMs e métricas.
